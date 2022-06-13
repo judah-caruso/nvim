@@ -1,0 +1,3 @@
+Installation:
+   - Setup the environment variable 'VIMRC' to be created. This should point to the init.(vim|lua) file itself
+   - Done, have fun.
